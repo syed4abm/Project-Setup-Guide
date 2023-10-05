@@ -4,17 +4,16 @@
 
 Visit `https://nodejs.org/en` and download and install the LTS version
 
-
 ## Install NVM
 
 Visit `https://github.com/coreybutler/nvm-windows#install-nvm-windows`
 
 Follow the instructions.
 
-
 ## Switch to required NodeJs version
 `nvm use 14.17.3`
 
+---
 ---
 
 ## Clone Github Repository 
@@ -40,6 +39,7 @@ Open VS Code on this path.
 This is our project's Root Folder `micro-ui-internals`
 
 ---
+---
 
 ## Install Yarn
 
@@ -52,13 +52,22 @@ Check that Yarn is installed by running:
 `yarn --version`
 
 ---
+---
 
 ### Add yarn.lock file at project root folder (file provided with this setup guide.)
 
 ### Add .env file inside examples folder (file provided with this setup guide.)
 
+---
+---
 
 ## Install project dependencies
+
+First check node version
+
+`node -v`
+
+Then run this command
 
 `yarn install`
 
