@@ -91,3 +91,9 @@ OR
 ## Final Note
 
 Once application started successfully make some UI/text changes in code and verify it in the browser.
+
+## If you get Heap Memory issue
+
+Run this command before running the app.
+
+`export NODE_OPTIONS=--max_old_space_size=8096 #8GB`
