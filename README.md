@@ -15,7 +15,7 @@ Follow the instructions.
 ## Switch to required NodeJs version
 `nvm use 14.17.3`
 
---
+---
 
 ## Clone Github Repository 
 
@@ -39,7 +39,7 @@ Open VS Code on this path.
 
 This is our project's Root Folder `micro-ui-internals`
 
---
+---
 
 ## Install Yarn
 
@@ -51,7 +51,7 @@ Check that Yarn is installed by running:
 
 `yarn --version`
 
---
+---
 
 ### Add yarn.lock file at project root folder - file provided with this setup guide.
 
