@@ -53,9 +53,9 @@ Check that Yarn is installed by running:
 
 ---
 
-### Add yarn.lock file at project root folder - file provided with this setup guide.
+### Add yarn.lock file at project root folder (file provided with this setup guide.)
 
-### Add .env file inside examples folder - file provided with this setup guide.
+### Add .env file inside examples folder (file provided with this setup guide.)
 
 
 ## Install project dependencies
