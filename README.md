@@ -83,10 +83,6 @@ OR
 
 `yarn start:dev`
 
-OR
-
-`yarn start`
-
 OR - if you face cache issue 
 
 `yarn start:dev -c`
