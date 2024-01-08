@@ -71,6 +71,10 @@ Then run this command
 
 `yarn install`
 
+if you face issue with node engine you can try below command
+
+`yarn install --ignore-engines`
+
 ## Run the application
 
 `yarn start`
